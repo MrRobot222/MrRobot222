@@ -1,4 +1,4 @@
-![Ajulu's Github Stats](https://github-readme-stats.vercel.app/api?username=stephenajulu&show_icons=true&theme=chartreuse-dark)
+![Mr Robot's Github Stats](https://github-readme-stats.vercel.app/api?username=MrRobot222&show_icons=true&theme=chartreuse-dark)
 
 
 <a href="https://t.me/MrRobotFsec">
