@@ -1,16 +1,17 @@
-### Hi there 👋
+![Ajulu's Github Stats](https://github-readme-stats.vercel.app/api?username=stephenajulu&show_icons=true&theme=chartreuse-dark)
 
-<!--
-**MrRobot222/MrRobot222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<a href="https://t.me/MrRobotFsec">
+    <img align="center" alt="Joker hacker" width="22px" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2018/240/iconmonstr-telegram-1.png">
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.instagram.com/mrrobot_fsec/">
+    <img align="center" alt="Joker hacker" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/instagram-233-896451.png">
+</a>
+
+<a href="https://twitter.com/MrRobotFsec">
+    <img align="center" alt="Joker hacker" width="22px" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-twitter-1.png">
+</a>
+
+
+
